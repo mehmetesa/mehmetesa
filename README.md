@@ -1,27 +1,94 @@
-<h1 align="center">Hi 👋, I'm Esat</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetesa&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetesa" /> </p>
+# 👋 Merhaba, Ben Esat!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetesa" alt="mehmetesa" /></a> </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Python+%7C+JavaScript+%7C+HTML;Her+gün+yeni+bir+şeyler+öğreniyorum!)
 
-- 🔭 I’m currently working on [a horror game web site](https://mehmetesa.github.io/last_control_web_site.io/)
+</div>
 
-- 🌱 I’m currently learning **python, html, javascript, css**
+---
 
-- 📫 How to reach me **mehmetesat113@gmail.com**
+## 🚀 Hakkımda
 
-- ⚡ Fun fact **web site develop**
+```python
+esat = {
+    "konum": "Türkiye",
+    "diller": ["Python", "JavaScript", "HTML", "CSS"],
+    "araçlar": ["VS Code", "Git", "GitHub"],
+    "öğreniyor": ["Web Geliştirme", "Backend", "Frontend"],
+    "hobiler": ["Kodlama", "Yeni teknolojiler öğrenme"]
+}
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/esat_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esat_one" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="text" height="30" width="40" /></a>
-</p>
+- 🔭 Şu anda web geliştirme projeleri üzerinde çalışıyorum
+- 🌱 Python, JavaScript ve HTML öğreniyorum
+- 💬 Bana web geliştirme ve kodlama hakkında sorabilirsin
+- 📫 **mehmetesat133@gmail.com**
+- ⚡ Kodlamayı öğrenmeyi seviyorum!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetesa&show_icons=true&locale=en" alt="mehmetesa" /></p>
+## 🛠️ Teknolojiler & Araçlar
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetesa&theme=dark" alt="mehmetesa" /></p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+![Esat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetesa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetesa&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mehmetesa&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Profil Özeti
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mehmetesa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Aktivite Grafiği
+
+[![Esat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehmetesa&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Bana Ulaşın
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetesat133@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehmetesa)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mehmetesa&color=blueviolet&style=for-the-badge)
+
+### 💙 Profilimi ziyaret ettiğin için teşekkürler!
+
+</div>
