@@ -1,18 +1,18 @@
-# 👋 Merhaba, Ben Esat!
+# 👋 Hi!, i`m Esat!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+%7C+Creator+%7C+Learner;Her+gün+yeni+bir+şeyler+öğreniyorum!" alt="Typing SVG" />
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About me
 
-- 🔭 Şu anda web geliştirme projeleri üzerinde çalışıyorum
-- 🌱 Python, JavaScript ve HTML öğreniyorum
-- 💬 Bana web geliştirme ve kodlama hakkında sorabilirsin
-- 📫 Bana ulaş: **mehmetesat133@gmail.com**
-- ⚡ Eğlenceli gerçek: Kodlamayı öğrenmeyi seviyorum!
+- 🔭 I’m currently working on web development projects
+- 🌱 I’m currently learning Python, JavaScript, and HTML
+- 💬 Ask me about web development and coding
+- 📫 How to reach me: **mehmetesat133@gmail.com**
+- ⚡ Fun fact: I love learning to code!
 
-## 🛠️ Teknolojiler & Araçlar
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -27,13 +27,13 @@
 
 
 
-## 📈 Aktivite Grafiği
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetesa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-## 🌐 Bana Ulaşın
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -50,5 +50,5 @@
 </div>
 
 <div align="center">
-  💙 Profilimi ziyaret ettiğin için teşekkürler!
+    💙 Thanks for visiting my profile!
 </div>
