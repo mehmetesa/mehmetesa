@@ -29,9 +29,6 @@
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
-
-![Snake animation](https://raw.githubusercontent.com/mehmetesa/mehmetesa/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
