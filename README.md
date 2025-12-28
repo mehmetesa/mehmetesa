@@ -42,6 +42,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mehmetesa&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## 📈 Aktivite Grafiği
 
 <div align="center">
