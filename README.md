@@ -2,7 +2,7 @@
 
 ### Web Developer | Python | JavaScript | HTML
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Don't+count+the+days,+make+the+days+count.;Passionate+about+coding!;Welcome+to+my+profile+👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Don't+count+the+days+make+the+days+count;Passionate+about+coding!;Welcome+to+my+profile+👋)
 
 ---
 
@@ -28,6 +28,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 
 
 ---
