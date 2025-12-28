@@ -1,48 +1,31 @@
-👋 Hi, I'm Esat!
-Web Developer | Python | JavaScript | HTML
-Show Image
+# Hi there, I'm Esat! 👋 (mehmetesa)
 
-🚀 About Me
-const esat = {
-location: "Turkey 🇹🇷",
-languages: ["Python", "JavaScript", "HTML", "CSS"],
-currentlyLearning: ["Web Development", "Backend", "Frontend"],
-interests: ["Coding", "Technology", "Learning new things"],
-contact: "mehmetesat133@gmail.com"
-}
+Yeni bir yazılım yolculuğuna başlayan, öğrenmeye ve üretmeye hevesli bir geliştiriciyim. Şu an portfolyomu ve projelerimi geliştirmekle meşgulüm.
 
-💻 Currently working on web development projects
-📚 Learning Python, JavaScript, and HTML
-🎯 Goal: Getting better every single day
-🌱 Love exploring new technologies
+### 🛠 Tech Stack
 
+* **Languages:** Python, JavaScript
+* **Frontend:** HTML5, CSS3
+* **Tools:** Git, GitHub, VS Code
 
-🛠️ Technologies I Use
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+---
 
-🐍 Watch the Snake Eat My Contributions!
-Show Image
+### 🐍 My Contributions Snake
 
-📫 Get In Touch
-Show Image
-Show Image
-📧 mehmetesat133@gmail.com
+Burada GitHub aktivitelerimle beslenen küçük bir yılan var! 
 
-💭 My Philosophy
+![github contribution grid snake animation](https://github.com/mehmetesa/mehmetesa/blob/output/github-contribution-grid-snake.svg)
 
-"Code is not just a job, it's an art form."
+---
 
+### 📈 GitHub Stats
 
-"Small steps every day are the beginning of great achievements."
+| My GitHub Stats | Most Used Languages |
+| :--- | :--- |
+| ![Esat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetesa&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetesa&layout=compact&theme=radical) |
 
+---
 
-Show Image
-⭐ Don't forget to star my projects if you like them!
-💙 Thanks for visiting my profile!
-Bunu README.md dosyana kopyala yapıştır. Daha temiz ve düzenli olacak böyle!
+### 📫 How to reach me:
+- **GitHub:** [@mehmetesa](https://github.com/mehmetesa)
+- Her zaman yeni şeyler öğrenmeye ve iş birliği yapmaya açığım!
