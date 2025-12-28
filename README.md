@@ -1,18 +1,31 @@
-# 👋 Hi! I'm Esat.
+# 👋 Hi, I'm Esat!
 
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Don't+count+the+days,+make+the+days+count.;Passionate+about+coding!;Welcome+to+my+profile+%F0%9F%91%8B
+### Web Developer | Python | JavaScript | HTML
 
-## 🚀 About me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Don't+count+the+days,+make+the+days+count.;Passionate+about+coding!;Welcome+to+my+profile+👋)
 
-- 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning Python, JavaScript, and HTML
-- 💬 Ask me about web development and coding
-- 📫 How to reach me: **mehmetesat133@gmail.com**
-- ⚡ Fun fact: I love learning to code!
+---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-<div align="center">
+```javascript
+const esat = {
+    location: "Turkey 🇹🇷",
+    languages: ["Python", "JavaScript", "HTML", "CSS"],
+    currentlyLearning: ["Web Development", "Backend", "Frontend"],
+    interests: ["Coding", "Technology", "Learning new things"],
+    contact: "mehmetesat133@gmail.com"
+}
+```
+
+- 💻 Currently working on web development projects
+- 📚 Learning Python, JavaScript, and HTML
+- 🎯 Goal: Getting better every single day
+- 🌱 Love exploring new technologies
+
+---
+
+## 🛠️ Technologies I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,33 +33,35 @@ https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetesa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetesat133@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetesa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mehmetesa)
-
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetesa&color=blueviolet&style=flat-square&label=Profil+Görüntülenme" alt="Profile Views" />
-</div>
+## 🐍 Watch the Snake Eat My Contributions!
 
-<div align="center">
-    💙 Thanks for visiting my profile!
-</div>
+![Snake animation](https://raw.githubusercontent.com/mehmetesa/mehmetesa/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📫 Get In Touch
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetesat133@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehmetesa)
+
+📧 mehmetesat133@gmail.com
+
+---
+
+## 💭 My Philosophy
+
+> "Code is not just a job, it's an art form."
+
+> "Small steps every day are the beginning of great achievements."
+
+---
+
+![](https://komarev.com/ghpvc/?username=mehmetesa&color=blue&style=flat-square)
+
+### ⭐ Don't forget to star my projects if you like them!
+
+💙 Thanks for visiting my profile!
