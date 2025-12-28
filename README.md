@@ -8,20 +8,12 @@
 
 ## 🚀 About Me
 
-```javascript
-const esat = {
-    location: "Turkey 🇹🇷",
-    languages: ["Python", "JavaScript", "HTML", "CSS"],
-    currentlyLearning: ["Web Development", "Backend", "Frontend"],
-    interests: ["Coding", "Technology", "Learning new things"],
-    contact: "mehmetesat133@gmail.com"
-}
-```
-
 - 💻 Currently working on web development projects
 - 📚 Learning Python, JavaScript, and HTML
 - 🎯 Goal: Getting better every single day
 - 🌱 Love exploring new technologies
+- 📍 Location: Turkey 🇹🇷
+- 📧 Contact: mehmetesat133@gmail.com
 
 ---
 
