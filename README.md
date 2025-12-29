@@ -13,7 +13,7 @@
 - 🎯 Goal: Getting better every single day
 - 🌱 Love exploring new technologies
 - 📍 Location: Turkey 🇹🇷
-- 📧 Contact: mehmetesat133@gmail.com
+- 📧 Contact: mehmetesat113@gmail.com
 
 ---
 
